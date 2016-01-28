@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="pso">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../pso/out/artifacts/pso" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../pso/out/artifacts/pso_src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../pso/out/artifacts/pso" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../pso/out/artifacts/pso_src" recursive="false" type="SOURCES" />
+  </library>
+</component>
